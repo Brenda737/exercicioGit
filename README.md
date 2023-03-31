@@ -1,1 +1,0 @@
-# exercicioGit
